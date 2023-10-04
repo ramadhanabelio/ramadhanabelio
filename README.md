@@ -6,14 +6,14 @@
 
 - 📫 How to reach me **ramadhanabelionusaputra@gmail.com**
 
-- 📄 Know about my experiences at [https://linkedin.com/in/ramadhanabelionusaputra](linkedin.com/in/ramadhanabelionusaputra)
+- 📄 Know about my experiences at [https://linkedin.com/in/ramadhanabelionusaputra](linkedin.com/in/ramadhan-abelio-nusa-putra)
 
 - ⚡ Fun fact **i learn by staring at people's code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/ramadhan.abelio/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramadhan.abelio" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ramadhanabelionusaputra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramadhanabelionusaputra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ramadhan-abelio-nusa-putra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramadhanabelionusaputra" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
