@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **ramadhanabelionusaputra@gmail.com**
 
-- 📄 Know about my experiences at [https://linkedin.com/in/ramadhanabelionusaputra](linkedin.com/in/ramadhan-abelio-nusa-putra)
+- 📄 Know about my experiences at [https://linkedin.com/in/ramadhan-abelio-nusa-putra](linkedin.com/in/ramadhan-abelio-nusa-putra)
 
 - ⚡ Fun fact **i learn by staring at people's code**
 
