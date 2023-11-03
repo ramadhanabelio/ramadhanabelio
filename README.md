@@ -34,4 +34,11 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramadhanabelio&show_icons=true&locale=en" alt="ramadhanabelio" /></p>
+<div style="display: flex;">
+  <a href="https://github.com/ramadhanabelio" style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramadhanabelio&hide_langs_below=1" />
+  </a>
+  <a style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ramadhanabelio&show_icons=true&locale=en" alt="ramadhanabelio" />
+  </a>
+</div>
