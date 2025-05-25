@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a **Software Developer** 
 
-- 🌱 I’m currently learning **Backend Engineering and Mobile**
+- 🌱 I’m currently learning **Full Stack Web Developer and Mobile Developer**
 
 - 📫 How to reach me **ramadhanabelionusaputra@gmail.com**
 
@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/ramadhan.abelio/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramadhan.abelio" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ramadhanabelio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramadhanabelionusaputra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ramadhanabelio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramadhanabelio" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
