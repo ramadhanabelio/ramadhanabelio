@@ -1,12 +1,12 @@
 <h1>Hi 👋, I'm Abelio</h1>
 
-- 🔭 I’m currently working as a **Software Developer** 
+- 🔭 I’m currently working as a **Software Engineer** 
 
 - 🌱 I’m currently learning **Full Stack Web Developer and Mobile Developer**
 
 - 📫 How to reach me **ramadhanabelionusaputra@gmail.com**
 
-- 📄 Know about my experiences at **https://www.linkedin.com/in/ramadhanabelio/**
+- 📄 Know about my experiences at **https://www.linkedin.com/in/ramadhanabelio**
 
 - ⚡ Fun fact **i learn by staring at people's code**
 
